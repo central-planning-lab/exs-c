@@ -1,4 +1,3 @@
 .elixir_ls
 .vscode
 *.so
-processor
