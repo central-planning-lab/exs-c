@@ -16,4 +16,5 @@ Run the script and pass it a calculation to perform:
 ```
 %> elixir processor.exs
 {"cmd": "min", "data": [1, 2, 3]}
+1
 ```
